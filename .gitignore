@@ -3,7 +3,6 @@ debug/
 target/
 
 # Directories used for execution
-results/
 vendor/
 
 # Instances. Keep those used in the competion
