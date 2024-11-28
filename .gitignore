@@ -1,0 +1,22 @@
+# Will have compiled files and executables
+debug/
+target/
+
+# Directories used for execution
+results/
+vendor/
+
+# Instances. Keep those used in the competion
+instances/*
+!instances/a280_n279_bounded-strongly-corr_01.ttp
+!instances/a280_n1395_uncorr-similar-weights_05.ttp
+!instances/a280_n2790_uncorr_10.ttp
+!instances/fnl4461_n4460_bounded-strongly-corr_01.ttp
+!instances/fnl4461_n22300_uncorr-similar-weights_05.ttp
+!instances/fnl4461_n44600_uncorr_10.ttp
+!instances/pla33810_n33809_bounded-strongly-corr_01.ttp
+!instances/pla33810_n169045_uncorr-similar-weights_05.ttp
+!instances/pla33810_n338090_uncorr_10.ttp
+
+# Python scripts
+*.pyc

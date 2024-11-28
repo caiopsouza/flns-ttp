@@ -1,0 +1,7 @@
+time: 222.919369909
+fitness: 195420.326368121983
+timeout: 10m
+seed: 1
+initial_route_amount: 20
+node_cut_amount: 3
+give_up_after: 5000
